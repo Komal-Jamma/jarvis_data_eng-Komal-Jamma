@@ -40,14 +40,14 @@ jarvis_projects:
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     description: Implemented Linux Cluster Monitoring Agent that keeps track of the hardware specifications data and resorce usage data of the host machines and store their data into the database. The Linus Cluster Monitoring Agent is programmed using Bash and, Postgres is used as Database, which would run in a Docker container. CenOS7 virtual machine is running on the Google Cloud Platform.
-  - name: "Core Java Apps"
-    git_url: "/core_java"
+  - name: " "
+    git_url: " "
     description:
-      - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      - "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-  - name: "Springboot App"
-    git_url: "/springboot"
+      - " "
+      - " "
+      - " "
+  - name: " "
+    git_url: ""
     description: ""
   - name: "Python Data Analytics"
     git_url: "/python_data_anlytics"
@@ -98,8 +98,8 @@ education:
     department: "Computer Science"
     # optional
     awards_achievements: 
-      - "Scholarship"
-      - "Dean's List (2020, 2022): Ut enim ad minim veniam"
+      - "   "
+      - "   "
       - "GPA: 3.6/4.0"
   - school_name: "S.E.S. Polytechnic"
     duration: "2008-2011"
@@ -117,9 +117,9 @@ others:
       - "Microsoft Azure Fundamentals Certificate" 
   - title: "Awards"
     bullets:
-      - "Winner"
+      - "     "
   - title: "Activities/Hobbies"
     bullets:
-      - "Football player"
-      - "Competitive gamer"
-      - "Anime fan"
+      - "Exploring new places"
+      - "Reading Books"
+      - "Singer"

@@ -2,8 +2,8 @@
   "education": [
     {
       "awards_achievements": [
-        "Scholarship",
-        "Dean's List (2020, 2022): Ut enim ad minim veniam",
+        "   ",
+        "   ",
         "GPA: 3.6/4.0"
       ],
       "degree": "Bachelor of Engineering",
@@ -40,17 +40,17 @@
     },
     {
       "description": [
-        "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
-        "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
-        "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+        " ",
+        " ",
+        " "
       ],
-      "git_url": "/core_java",
-      "name": "Core Java Apps"
+      "git_url": " ",
+      "name": " "
     },
     {
       "description": "",
-      "git_url": "/springboot",
-      "name": "Springboot App"
+      "git_url": "",
+      "name": " "
     },
     {
       "description": "",
@@ -84,15 +84,15 @@
     },
     {
       "bullets": [
-        "Winner"
+        "     "
       ],
       "title": "Awards"
     },
     {
       "bullets": [
-        "Football player",
-        "Competitive gamer",
-        "Anime fan"
+        "Exploring new places",
+        "Reading Books",
+        "Singer"
       ],
       "title": "Activities/Hobbies"
     }
