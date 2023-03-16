@@ -98,8 +98,6 @@ education:
     department: "Computer Science"
     # optional
     awards_achievements: 
-      - "   "
-      - "   "
       - "GPA: 3.6/4.0"
   - school_name: "S.E.S. Polytechnic"
     duration: "2008-2011"
@@ -117,7 +115,7 @@ others:
       - "Microsoft Azure Fundamentals Certificate" 
   - title: "Awards"
     bullets:
-      - "     "
+      - "Agile Testing Certificate"
   - title: "Activities/Hobbies"
     bullets:
       - "Exploring new places"
