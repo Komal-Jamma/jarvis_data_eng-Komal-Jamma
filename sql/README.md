@@ -19,4 +19,4 @@ SELECT blah blah
 ```
 
 EOF
-
+:wq
