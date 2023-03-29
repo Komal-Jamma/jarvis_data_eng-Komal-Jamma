@@ -40,15 +40,12 @@ jarvis_projects:
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     description: Implemented Linux Cluster Monitoring Agent that keeps track of the hardware specifications data and resorce usage data of the host machines and store their data into the database. The Linus Cluster Monitoring Agent is programmed using Bash and, Postgres is used as Database, which would run in a Docker container. CenOS7 virtual machine is running on the Google Cloud Platform.
-  - name: " "
-    git_url: " "
-    description:
-      - " "
-      - " "
-      - " "
-  - name: " "
-    git_url: ""
-    description: ""
+#  - name: " "
+#    git_url: " "
+#    description: " "
+#  - name: " "
+#    git_url: ""
+#    description: ""
   - name: "Python Data Analytics"
     git_url: "/python_data_anlytics"
     description: ""
@@ -80,8 +77,8 @@ highlighted_projects:
 #The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
 professional_experience:
   #Write your Jarvis role as a professional experience rather than training.
-  - title: "Data Engineer"
-    company: "Jarvis"
+  - title: "Business System Analyst"
+    company: "Jarvis Consulting Group"
     duration: "2023-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     description: "Collaborated with a scrum team using Agile Methodology to develop Linux Cluster Monitoring Agent project. Used various technologies such as Docker, PostgreSQL, GIT and IntelliJ to develop the Linx App.Participated in daily scrum meeting along with sprint retrospective meetings."
@@ -105,7 +102,6 @@ education:
     department: "Information Technology"
     awards_achievements: 
       
-
 #Optional section
 others:
     #category

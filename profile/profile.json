@@ -37,20 +37,6 @@
       "name": "Linux Cluster Resource Monitoring App"
     },
     {
-      "description": [
-        " ",
-        " ",
-        " "
-      ],
-      "git_url": " ",
-      "name": " "
-    },
-    {
-      "description": "",
-      "git_url": "",
-      "name": " "
-    },
-    {
       "description": "",
       "git_url": "/python_data_anlytics",
       "name": "Python Data Analytics"
@@ -97,10 +83,10 @@
   ],
   "professional_experience": [
     {
-      "company": "Jarvis",
+      "company": "Jarvis Consulting Group",
       "description": "Collaborated with a scrum team using Agile Methodology to develop Linux Cluster Monitoring Agent project. Used various technologies such as Docker, PostgreSQL, GIT and IntelliJ to develop the Linx App.Participated in daily scrum meeting along with sprint retrospective meetings.",
       "duration": "2023-present",
-      "title": "Data Engineer"
+      "title": "Business System Analyst"
     },
     {
       "company": "Gubbi Enterprises",
