@@ -1,0 +1,119 @@
+# Preferred name (Characters only)
+name: "Komal Jamma"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/Komal-Jamma/jarvis_data_eng-Komal-Jamma
+
+# Introduce yourself, your academic and professional background.
+# What excites you about the software industry and your passion. At least 80 words
+summary: I graduated with a Bachelor of Engineering in Computer Science from Solapur University. I started off my career as a Web Designer at Gubbi Enterprises 6 years ago, where I worked with the development and testing team to meet the client requirements. I have always been interested in Business System Analyst roles because I enjoy meeting with users to define business needs and maintaining software systems. I am proficient in languages such as Python and SQL and tools such as SQL Server Management System, SQL databases and, Tableau. My goal is to work as a Business System Analyst. I believe I can be a valuable team player with strong analytical and problem-solving skills. I am always fascinated by learning new skills.
+
+# Group your skills by level.
+# Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
+skills:
+  # At least 5 skills
+  proficient:
+    - Python
+    - Agile/Scrum
+    - RDBMS/SQL
+    - Data Analytics
+    - Data Visualization(Dashboards)
+    
+  # At least 5 skills
+  competent:
+    - Critical Thinking and Problem Solving
+    - Team work
+    - Data structures and algorithms
+    - Decision Making
+    - Cloud computing
+  # At least 5 skills
+  familiar:
+    - Jupyter Notebook/PyCharm
+    - Tableau
+    - Linux
+    - SQL Server Management System
+    - Cloud Platforms
+
+# List of Jarvis projects
+jarvis_projects:
+  - name: "Linux Cluster Resource Monitoring App"
+    git_url: "https://github.com/Komal-Jamma/jarvis_data_eng-Komal-Jamma"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Implemented Linux Cluster Monitoring Agent that keeps track of the hardware specifications data and resorce usage data of the host machines and store their data into the database. The Linus Cluster Monitoring Agent is programmed using Bash and, Postgres is used as Database, which would run in a Docker container. CenOS7 virtual machine is running on the Google Cloud Platform.
+#  - name: " "
+#    git_url: " "
+#    description: " "
+#  - name: " "
+#    git_url: ""
+#    description: ""
+  - name: "Python Data Analytics"
+    git_url: "/python_data_anlytics"
+    description: ""
+  - name: "Hadoop"
+    git_url: "/hadoop"
+    description: ""
+  - name: "Spark"
+    git_url: "/spark"
+    description: ""
+  - name: "Cloud/DevOps"
+    git_url: "/cloud_devops"
+    description: ""
+
+# List of personal or academic projects
+# Feel free to add more projects
+highlighted_projects:
+    #project name
+  - name: "COVID 19 Data Exploration and Tableau Visualization"
+    #URL is optional
+    git_url: "https://github.com/Komal-Jamma/PortfolioProject"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Created dashboard in Tableau for the analysis of covid 19 data including total cases, deaths, rate of deaths, population infected, countries with highest infection rate, and vaccination rate. Explored the details of total covid cases and deaths, date at which maximum death occurred, what percentage of population got infected of virus, countries with highest infection rate, percentage of people got vaccination. Used Bar chart to depict total deaths per continent, Line chart to show percentage of population got infected and Map chart to show percent population infected per country.
+  - name: "DATA CLEANING IN SQL"
+    git_url: "https://github.com/Komal-Jamma/Data-Cleaning-in-SQL"
+    description: For Data Cleaning project, I have collected and analysed real time data from Nashville housing dataset. Standardized Date format in SQL with Convert function. Populated missing property addresses, replaced all null value addresses with identical parcel ID. Breaking Addresses into individual columns(Address, City and State). Modified incomplete words with correct and complete word. Identified and remove duplicates using Common Table Expression. Dropped unused and irrelevant columns from table using drop function.
+
+#List of professional experience
+#The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+#The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Business System Analyst"
+    company: "Jarvis Consulting Group"
+    duration: "2023-present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Collaborated with a scrum team using Agile Methodology to develop Linux Cluster Monitoring Agent project. Used various technologies such as Docker, PostgreSQL, GIT and IntelliJ to develop the Linx App.Participated in daily scrum meeting along with sprint retrospective meetings."
+  - title: "Web Designer"
+    company: "Gubbi Enterprises"
+    duration: "2016-2018"
+    description: "Designed and developed robust solutions to meet client requirements for functionality, scalability and performance working with software development and testing team members. Prepared design plan and presented the website structure to the client. Used most effective technologies like HTML5 and CSS3 to construct the interactive and efficient websites. Maintained and updated the company website including the layout and flow. Gathered and defined customer requirements to develop clear specifications for project plans resulting in successful and interactive e - commerce website."
+
+#List of edcuation
+education: 
+  - school_name: "Solapur University"
+    duration: "2011-2014"
+    degree: "Bachelor of Engineering"
+    department: "Computer Science"
+    # optional
+    awards_achievements: 
+      - "GPA: 3.6/4.0"
+  - school_name: "S.E.S. Polytechnic"
+    duration: "2008-2011"
+    degree: "Diploma"
+    department: "Information Technology"
+    awards_achievements: 
+       - "GPA: 3.7/4.0"
+#Optional section
+others:
+    #category
+  - title: "Certificates"
+    bullets:
+      - "IBM Data Analyst Professional Certificate (December 2022)"
+      - "Microsoft Azure Fundamentals Certificate (October 2022)" 
+  - title: "Awards"
+    bullets:
+      - "Agile Testing Certificate (June 2022)"
+  - title: "Activities/Hobbies"
+    bullets:
+      - "Exploring new places"
+      - "Reading Books"
+   
