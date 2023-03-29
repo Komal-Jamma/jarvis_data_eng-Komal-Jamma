@@ -10,7 +10,9 @@
       "school_name": "Solapur University"
     },
     {
-      "awards_achievements": null,
+      "awards_achievements": [
+        "GPA: 3.7/4.0"
+      ],
       "degree": "Diploma",
       "department": "Information Technology",
       "duration": "2008-2011",
@@ -118,5 +120,5 @@
       "Data Visualizatoin"
     ]
   },
-  "summary": "I graduated with a Bachelor of Engineering in Computer Science from Solapur University. I started off my career as a Web Designer in Gubbi Enterprises 6 years ago, where I worked with development and testing team to meet the client requirements. I have always been interested in Data Engineering because I enjoy analysing and visualizing data insights. I am proficient in languages such as Python and SQL and tools such as SQL Server Management System, SQL databases and Tableau. My goal is to work as a Data Engineer. I believe I can be a valuable team player with strong analytical and problem-solving skills. I am always facinating about learning new skills."
+  "summary": "I graduated with a Bachelor of Engineering in Computer Science from Solapur University. I started off my career as a Web Designer in Gubbi Enterprises 6 years ago, where I worked with the development and testing team to meet the client requirements. I have always been interested in Business System Analyst roles because I enjoy meeting with users to define business needs and maintaining software systems. I am proficient in languages such as Python and SQL and tools such as SQL Server Management System, SQL databases and, Tableau. My goal is to work as a Business System Analyst. I believe I can be a valuable team player with strong analytical and problem-solving skills. I am always fascinated by learning new skills."
 }
