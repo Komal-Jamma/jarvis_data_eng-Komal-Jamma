@@ -13,17 +13,17 @@ skills:
   # At least 5 skills
   proficient:
     - Python
-    - Agile/Scrum
+    - Elicitation
     - RDBMS/SQL
     - Data Analytics
-    - Data Visualization(Dashboards)
+    - Business Analysis Techniques
     
   # At least 5 skills
   competent:
     - Critical Thinking and Problem Solving
-    - Team work
-    - Data structures and algorithms
-    - Decision Making
+    - Documentation of BRD & SRD
+    - Detail Oriented
+    - Stakeholder Management Skill
     - Cloud computing
   # At least 5 skills
   familiar:
@@ -115,5 +115,5 @@ others:
   - title: "Activities/Hobbies"
     bullets:
       - "Exploring new places"
-      - "Reading Books"
+      - "Reading Fictional Novels"
    
